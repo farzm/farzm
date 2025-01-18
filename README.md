@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1271796745914945576/1329445075427655680/f3e95c40ebfe31cf9c9ff10bae6456d1.jpg?ex=678a5db5&is=67890c35&hm=a785068c424a3c0e026548db3330cd98262ead2fa59c113f9022296508e41722&)
+![](https://media.discordapp.net/attachments/1271796745914945576/1330116958083092490/99a4c2e8e67b949405c9a50362d814c7.jpg?ex=678ccf73&is=678b7df3&hm=28e0cac1b9d4b0cff615598c7db1c7e788be2b0d22b1b23f7069f777f03eae9d&)
 <!--
 **farzm/farzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
